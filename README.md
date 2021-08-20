@@ -1,6 +1,6 @@
 Hey , I m Sarthak(@Sarthakaga15)
 
-I’m currently learning GoLang.
+I’m interested in HTML ,CSS ,Node.js ,Go lang ,React ,AWS.
 
 I’m looking to collaborate on projects .
 
