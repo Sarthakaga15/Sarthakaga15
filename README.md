@@ -1,8 +1,8 @@
 Hey , I m Sarthak(@Sarthakaga15)
 
-I’m interested in HTML ,CSS ,Node.js ,Go lang ,React ,AWS.
+I’m Passionate developer experienced in Javascript ,Node.js ,React ,Vue.js ,MySQL ,Panda, HTML ,CSS.
 
 I’m looking to collaborate on projects .
-
-You can email me at sarthakaga15@gmail.com. I'll try to respond as soon as possible!
+You can email me at sarthakaga15@gmail.com.
+I'll try to respond as soon as possible!
 
